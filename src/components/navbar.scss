@@ -1,0 +1,16 @@
+$blancoU: #fff;
+$negroU: #333;
+
+nav{
+background-color: $negroU;
+padding: .4rem;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+nav a{
+    margin-right:1rem;
+    color: $blancoU;
+    text-decoration: none;
+}
